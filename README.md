@@ -1,4 +1,5 @@
 # Top Speed of Animals
+
 The main goal of this project is to compare human's **top speed** with other animals (tortoise, elk, giraffe, and elephant are chosen in this case). In order to clearly see differences among human and the creatures, my idea is to put each of them in a "mouse-running wheel" ; therefore, we can easily learn from gradually lightened bulbs on the wheel and a speed measuring instrument which animal is faster or slower.
 
 
