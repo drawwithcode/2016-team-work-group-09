@@ -4,7 +4,7 @@ The main goal of this project is to compare human's **top speed** with other ani
 
 
 Some challenges or difficulties in this project: 
-### How to make the wheels run, the bulbs lighten, and the measuring intruments generate individually according to different datas (or animals) ?
+### / How to make the wheels run, the bulbs lighten, and the measuring intruments generate individually according to different datas (or animals) ?
 After several tries, I found out that utilizing "**INSTANCE MODE**" helps me quickly build one mode for one animal, and then just duplicated it and modified some parts of codes. Like an example below:
 
 ```
@@ -39,7 +39,7 @@ After several tries, I found out that utilizing "**INSTANCE MODE**" helps me qui
   var myp5 = new p5(Tortoise, 'c2')
 ```
 
-### How to position each mode in the place I want?
+### / How to position each mode in the place I want?
 In purpose of putting all modes (total of 5) in the global mode, I used a way like this:
 
 ```
