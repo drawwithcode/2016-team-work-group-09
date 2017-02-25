@@ -4,7 +4,7 @@ The main goal of this project is to compare human's **top speed** with other ani
 
 
 Some challenges or difficulties in this project: 
-### / How to make the wheels run, the bulbs lighten, and the measuring intruments generate individually according to different datas (or animals) ?
+### / How to make the wheels run, the bulbs lighten, and the measuring intruments operate individually according to different datas (or animals) ?
 After several tries, I found out that utilizing "**INSTANCE MODE**" helps me quickly build one mode for one animal, and then just duplicated it and modified some parts of codes. Like an example below:
 
 ```
