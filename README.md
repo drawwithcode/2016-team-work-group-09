@@ -5,8 +5,8 @@ The main goal of this project is to compare human's **top speed** with other ani
 
 Some challenges or difficulties in this project: 
 ### / How to make the wheels run, the bulbs lighten, and the measuring intruments operate individually according to different datas (or animals) ?
-After several tries, I found out that utilizing "**INSTANCE MODE**" helps me quickly build one mode for one animal, and then just duplicated it and modified some parts of codes. Like an example below:
-
+After several tries, I found out that utilizing "**INSTANCE MODE**" helps me quickly build one mode for one animal, and then I can just duplicated it and modified some parts of codes. Like an example below:
+The merit of instance mode is that when I change one of variable numbers, it influences only the skech which I adjusted, which means when I make some errors, I can clearly recognize where the problem is and the mistakes doesn't effect the other sketches. 
 ```
 // Sketch One_Human
   var Human = function( p ) {
